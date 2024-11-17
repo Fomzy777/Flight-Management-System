@@ -1,0 +1,8 @@
+﻿Flight Number,Flight Origin,Aircraft Number,Airline Name,Airline Code,Plane Model,Distance From Airport,Flight Speed,Tmetabled Arrival,,,
+BA478,LHR,G-EUUV,British Airways,BA,A320-232,230,702,10:25,,,
+KL1665,AMS,PH-BXT,KLM,KLM,Boeing 737-9k2,310,683,10:25,,,
+TK1853,IST,TC-JSO,Turkish Airlines,TK,A321-231,741,623,10:30,,,
+VY1003,MAD,EC-NFI,Vueling,VY,A320-271N,242,592,10:45,,,
+AZ74,FCO,EI-DTM,ITA Airways,AZ,A320-216,567,580,10:50,,,
+EI562,DUB,EI-DVI,Aer Lingus,EI,A320-214,1115,796,10:50,,,
+VY2211,SVQ,EC-NCU,Vueling,VY,A320-271N,810,10,11:30,,,
